@@ -1,0 +1,6 @@
+Basic commands of git...
+clone
+add
+status
+commit
+push
